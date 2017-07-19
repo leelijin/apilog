@@ -1,0 +1,19 @@
+{
+  "name": "eugene/apilog",
+  "description": "record your api's logs",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lijin",
+      "email": "594314976@qq.com"
+    }
+  ],
+  "require": {
+    "laravel/framework": "5.4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eugene\\ApiLog\\": "src/"
+    }
+  }
+}
