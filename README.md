@@ -24,3 +24,6 @@ Route::any('for',function(){
 })->middleware('api.log');
 ```
 
+
+
+update 20180124
